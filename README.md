@@ -1,18 +1,16 @@
 
-## <a name="introduction">🤖 Introduction</a>
+## 🤖 Introduction
 
-Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general.
-
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
+Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard.
 
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+## ⚙️ Tech Stack
 
 - Vite
 - React.js
 - Tailwind CSS
 
-## <a name="features">🔋 Features</a>
+## 🔋 Features
 
 👉 **Beautiful Sections**: Includes hero, services, features, how to use, roadmap, pricing, footer, and header.
 
@@ -28,7 +26,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 and many more, including code architecture and reusability
 
-## <a name="quick-start">🤸 Quick Start</a>
+## 🤸 Quick Start
 
 Follow these steps to set up the project locally on your machine.
 
